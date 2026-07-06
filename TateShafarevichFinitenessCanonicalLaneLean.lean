@@ -1,0 +1,7 @@
+-- This module is the root of the TateShafarevichFinitenessCanonicalLaneLean Lean proof package.
+import TateShafarevichFinitenessCanonicalLaneLean.Basic
+import TateShafarevichFinitenessCanonicalLaneLean.SourcePackage
+import TateShafarevichFinitenessCanonicalLaneLean.SourceDependencies
+import TateShafarevichFinitenessCanonicalLaneLean.Formalization
+import TateShafarevichFinitenessCanonicalLaneLean.ReviewerBridge
+import TateShafarevichFinitenessCanonicalLaneLean.TheoremStatement
